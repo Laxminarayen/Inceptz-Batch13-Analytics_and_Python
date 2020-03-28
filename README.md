@@ -7,7 +7,7 @@ Different types of Analytics
 Different types of Machine Learning
 Why Python? Features of Python
 
-[Day - 2](https://github.com/nursnaaz/25DaysInMachineLearning/tree/master/02%20-%20Day%20-%202-3-4-%20Python%20Basics): 28-03-2020
+[Day - 2](https://github.com/Laxminarayen/Inceptz-Batch13-Analytics_and_Python/tree/master/02%20-%20Day%20-%202-%20Python%20Basics%20with%20Exercise): 28-03-2020
 We Started practising the python
 Ways to implement python
 Why Jupyter notebook?
