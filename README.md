@@ -1,7 +1,7 @@
 # Inceptz-Batch13-Analytics_and_Python
 I will share all the materials I use to teach in class in this repository
 
-[Day - 1](https://github.com/nursnaaz/25DaysInMachineLearning/tree/master/01%20-%20Day%20-%201%20Analytics_Python): 21-03-2020
+[Day - 1](https://github.com/Laxminarayen/Inceptz-Batch13-Analytics_and_Python/tree/master/01%20-%20Day%20-%201%20-%20Analytics%20and%20python): 21-03-2020
 We Learnt about 
 Different types of Analytics
 Different types of Machine Learning
