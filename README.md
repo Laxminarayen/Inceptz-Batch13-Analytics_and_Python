@@ -16,3 +16,11 @@ Conditions on creating a identifier
 Different datastructure
 List, Tuple, Set, Dictionary, String
 Typecast
+
+Day - 3(): 29-03-2020 
+String manupulations and functions 
+Control Statement Condition Statement 
+What is Indendation? 
+Functions Paraments, 
+Defaut Parameters, 
+Recursive functions
