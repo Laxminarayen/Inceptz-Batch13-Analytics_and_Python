@@ -24,3 +24,11 @@ What is Indendation?
 Functions Paraments, 
 Defaut Parameters, 
 Recursive functions
+
+[Day - 4](https://github.com/Laxminarayen/Inceptz-Batch13-Analytics_and_Python/tree/master/03%20-%20Day%20-%203%20-%20Python%20Basics%20with%20Exercises): 04-04-2020 
+String manupulations and functions 
+Control Statement Condition Statement 
+What is Indendation? 
+Functions Paraments, 
+Defaut Parameters, 
+Recursive functions
