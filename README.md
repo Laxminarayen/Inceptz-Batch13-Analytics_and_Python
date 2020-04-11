@@ -31,3 +31,5 @@ OS Library Module in python
 import and from import 
 Numpy: Why Numpy? 
 Numpy Basics
+
+[Day - 5](https://github.com/Laxminarayen/Inceptz-Batch13-Analytics_and_Python/tree/master/05%20-%20Day%205%20-%20Pandas%20with%20Exercises): 05-04-2020 Pandas Data Loading Data Manipulation Data Filtering Data Grouping
