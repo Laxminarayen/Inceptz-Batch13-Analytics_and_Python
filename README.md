@@ -52,6 +52,7 @@ Groupby
 pivot 
 stack and Unstack
 
+
 [Day - 8](https://github.com/Laxminarayen/Inceptz-Batch13-Analytics_and_Python/tree/master/06%20-%20Day%20-%206%20-%20Python%20Advanced%20Functions): 25-04-2020 
 Python Quiz sessions
 
