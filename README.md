@@ -43,3 +43,39 @@ Map
 Filter 
 Reduce 
 
+[Day - 7](https://github.com/Laxminarayen/Inceptz-Batch13-Analytics_and_Python/tree/master/06%20-%20Day%20-%206%20-%20Python%20Advanced%20Functions): 18-04-2020 
+List Comprehension
+Zip 
+Enumerate
+Lambda
+Map 
+Filter 
+Reduce
+
+[Day - 8](https://github.com/Laxminarayen/Inceptz-Batch13-Analytics_and_Python/tree/master/06%20-%20Day%20-%206%20-%20Python%20Advanced%20Functions): 18-04-2020 
+List Comprehension
+Zip 
+Enumerate
+Lambda
+Map 
+Filter 
+Reduce
+
+[Day - 9](https://github.com/Laxminarayen/Inceptz-Batch13-Analytics_and_Python/tree/master/06%20-%20Day%20-%206%20-%20Python%20Advanced%20Functions): 18-04-2020 
+List Comprehension
+Zip 
+Enumerate
+Lambda
+Map 
+Filter 
+Reduce
+
+[Day - 10](https://github.com/Laxminarayen/Inceptz-Batch13-Analytics_and_Python/tree/master/06%20-%20Day%20-%206%20-%20Python%20Advanced%20Functions): 18-04-2020 
+List Comprehension
+Zip 
+Enumerate
+Lambda
+Map 
+Filter 
+Reduce
+
