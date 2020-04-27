@@ -43,7 +43,7 @@ Map
 Filter 
 Reduce 
 
-[Day - 7](https://github.com/Laxminarayen/Inceptz-Batch13-Analytics_and_Python/tree/master/06%20-%20Day%20-%206%20-%20Python%20Advanced%20Functions): 19-04-2020 Advanced Pandas operations Like 
+[Day - 7](https://github.com/Laxminarayen/Inceptz-Batch13-Analytics_and_Python/tree/master/07%20-%20Day%20-%207%20-%20Pandas%20Advanced%20with%20Exercises): 19-04-2020 Advanced Pandas operations Like 
 Converting column dtypes 
 understanding each dtypes 
 Append
