@@ -43,3 +43,20 @@ Map
 Filter 
 Reduce 
 
+[Day - 7](https://github.com/Laxminarayen/Inceptz-Batch13-Analytics_and_Python/tree/master/07%20-%20Day%20-%207%20-%20Pandas%20Advanced%20with%20Exercises): 19-04-2020 Advanced Pandas operations Like 
+Converting column dtypes 
+understanding each dtypes 
+Append
+Merge and Concat 
+Groupby 
+pivot 
+stack and Unstack
+
+
+[Day - 8](https://github.com/Laxminarayen/Inceptz-Batch13-Analytics_and_Python/tree/master/08%20-%20Day%20-%208%20-%20Python%20Quiz%20Session): 25-04-2020 
+Python Quiz sessions
+
+[Day - 9](https://github.com/Laxminarayen/Inceptz-Batch13-Analytics_and_Python/tree/master/09%20-%20Day%20-%209%20-%20Python%20Pre-processings): 26-04-2020 
+Understading data visualization using Seaborn
+
+
